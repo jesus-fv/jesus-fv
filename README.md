@@ -1,4 +1,4 @@
-# Hey There! I'm Jesús 
+# Hey There! I'm Jesús 👋
 
 Bridging the gap between solid backend engineering and modern AI. I build high-performance systems using Python and FastAPI.
 
