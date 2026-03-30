@@ -40,6 +40,5 @@ fuel:
 <h2 align="left">🔥 Statistics</h2>
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats-mu-woad.vercel.app/api?username=jesus-fv&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="Jesus-fv's GitHub Stats" />
-  &nbsp; <img height="150em" src="https://github-readme-stats-mu-woad.vercel.app/api/top-langs/?username=jesus-fv&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jesus-fv&theme=nord" />
 </p>
